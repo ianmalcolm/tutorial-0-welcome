@@ -14,6 +14,8 @@ spec:
           data: |
             from orquestra import welcome
             welcome()
+            from orquestra import zquantumtest
+            zquantumtest()
     outputs:
       artifacts:
       - name: welcome
