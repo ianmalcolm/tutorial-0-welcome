@@ -20,3 +20,5 @@ spec:
       artifacts:
       - name: welcome
         path: /app/welcome.json
+      - name: zquantumtest
+        path: /app/circuit.json
